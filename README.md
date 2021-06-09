@@ -1,4 +1,4 @@
-### Hi there, I'm Amritanshu - [NewGenDeveloper][website] 👋
+### Hi there, I'm Amritanshu - [NewGenDeveloper][twitter] 👋
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/codeSTACKr?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FcodeSTACKr&screen_name=codeSTACKr)
 
@@ -12,7 +12,7 @@
 
 ### Connect with me:
 
-[<img align="left" alt="NewGenDeveloper | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
+[<img align="left" alt="NewGenDeveloper | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" style="color:red" />][youtube]
 [<img align="left" alt="NewGenDeveloper | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="NewGenDeveloper | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
@@ -60,12 +60,7 @@
 [twitter]: https://twitter.com/NewGenDeveloper
 [youtube]: https://www.youtube.com/channel/UCSNS5Jra2IAEhlniI4uIZPg
 [linkedin]: https://www.linkedin.com/in/amritanshu-rawat-3010a819b/
+[hashnode]: https://newgendeveloper.hashnode.dev/
+[medium]: https://amritanshu-dev-rawat.medium.com/
 
 
-// https://dev.to/amritanshu
-//UCSNS5Jra2IAEhlniI4uIZPg
-// https://twitter.com/NewGenDeveloper
-//https://www.linkedin.com/in/amritanshu-rawat-3010a819b/
-
-//https://newgendeveloper.hashnode.dev/
-//https://amritanshu-dev-rawat.medium.com/
