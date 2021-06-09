@@ -22,6 +22,11 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Parse JSON 2021](https://www.youtube.com/watch?v=ME4DBgRWTZo)
+- [Top 5 Best Flagship Phones Under 50,000 Budget](https://www.youtube.com/watch?v=87GIqgt0bws)
+- [Flutter Full Application | Android And IOS | Dice App | 2021](https://www.youtube.com/watch?v=fi6vDK_Z7KY)
+- [Favicon website html](https://www.youtube.com/watch?v=a9iJqijAiic)
+- [Auto Save In VS Code](https://www.youtube.com/watch?v=e15nV4NR6b8)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://www.youtube.com/channel/UCSNS5Jra2IAEhlniI4uIZPg)
