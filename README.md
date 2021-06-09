@@ -43,10 +43,9 @@
 ---
 
 <details>
-  <summary>:zap: Recent GitHub Activity</summary>
-  
-<!--START_SECTION:activity-->
-<!--END_SECTION:activity-->
+  <summary>:zap: GitHub Stats</summary>
+
+  <img align="left" alt="Amritanshu's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Developer-Amritanshu&show_icons=true&hide_border=true" />
 
 </details>
 
