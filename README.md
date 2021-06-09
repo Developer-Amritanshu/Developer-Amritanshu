@@ -1,6 +1,6 @@
 ### Hi there, I'm Amritanshu - [NewGenDeveloper][twitter] 👋
 
-[![Twitter Follow](https://img.shields.io/twitter/follow/codeSTACKr?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FcodeSTACKr&screen_name=codeSTACKr)
+[![Twitter Follow](https://img.shields.io/twitter/follow/NewGenDeveloper?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FNewGenDeveloper&screen_name=NewGenDeveloper)
 
 ## I'm a Student, Developer, and Blogger!!
 
@@ -12,9 +12,9 @@
 
 ### Connect with me:
 
-[<img align="left" alt="NewGenDeveloper | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" style="color:red" />][youtube]
-[<img align="left" alt="NewGenDeveloper | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="NewGenDeveloper | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="NewGenDeveloper | YouTube" width="22px" src="https://pngfree.io/upload/imgs/pngwing/free-png-zxpov.png" />][youtube]
+[<img align="left" alt="NewGenDeveloper | Twitter" width="22px" src="https://www.clipartmax.com/png/middle/135-1352882_png-format-twitter-logo-transparent.png" />][twitter]
+[<img align="left" alt="NewGenDeveloper | LinkedIn" width="22px" src="https://image.similarpng.com/very-thumbnail/2020/07/Linkedin-logo-on-transparent-Background-PNG-.png" />][linkedin]
 
 <br />
 
