@@ -55,11 +55,11 @@
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Top Courses To Learn JAVASCRIPT](https://dev.to/amritanshu/top-courses-to-learn-javascript-43ah)
 - [Top courses to learn REACT](https://dev.to/amritanshu/top-courses-to-learn-react-56d2)
 - [Data Structure](https://dev.to/amritanshu/data-structure-3m5l)
 - [Top courses to learn MERN.](https://dev.to/amritanshu/top-courses-to-learn-mern-2i2g)
 - [INSTANTLY PARSE JSON](https://dev.to/amritanshu/instantly-parse-json-4pn0)
-- [Reverse An Array - 3 Methods](https://dev.to/amritanshu/reverse-an-array-3-methods-2ekn)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](https://dev.to/amritanshu)
