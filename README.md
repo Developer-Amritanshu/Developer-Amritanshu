@@ -55,11 +55,11 @@
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Top courses to learn NODE](https://dev.to/amritanshu/top-courses-to-learn-node-d0i)
 - [6 figure job in 6 months](https://dev.to/amritanshu/6-figure-job-in-6-months-2g2b)
 - [Top Courses To Learn JAVASCRIPT](https://dev.to/amritanshu/top-courses-to-learn-javascript-43ah)
 - [Top courses to learn REACT](https://dev.to/amritanshu/top-courses-to-learn-react-56d2)
 - [Data Structure](https://dev.to/amritanshu/data-structure-3m5l)
-- [Top courses to learn MERN.](https://dev.to/amritanshu/top-courses-to-learn-mern-2i2g)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](https://dev.to/amritanshu)
