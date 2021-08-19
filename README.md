@@ -55,8 +55,8 @@
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Icons for your next project.](https://dev.to/amritanshu/icons-for-your-next-project-3fo9)
 - [Deceptive Patterns](https://dev.to/amritanshu/deceptive-patterns-3l8l)
-- [Review my project](https://dev.to/amritanshu/review-my-project-4069)
 - [Basic JavaScript - Comments, Data Types, Variables](https://dev.to/amritanshu/basic-javascript-comments-data-types-variables-2p41)
 - [Top courses to learn NODE](https://dev.to/amritanshu/top-courses-to-learn-node-d0i)
 - [6 figure job in 6 months](https://dev.to/amritanshu/6-figure-job-in-6-months-2g2b)
