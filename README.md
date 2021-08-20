@@ -41,11 +41,11 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Daily UI | UI/UX 2021 | Part 1](https://www.youtube.com/watch?v=ZNXHAxAS9NI)
 - [Adobe XD Wireframe Kit Free Download](https://www.youtube.com/watch?v=ieA37Ute2Pg)
 - [Social Media Distraction - Project](https://www.youtube.com/watch?v=ZkCyj1Row9w)
 - [BGMI Map Fix](https://www.youtube.com/watch?v=T68Cd6UZSZs)
 - [Parse JSON 2021](https://www.youtube.com/watch?v=ME4DBgRWTZo)
-- [Top 5 Best Flagship Phones Under 50,000 Budget](https://www.youtube.com/watch?v=87GIqgt0bws)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://www.youtube.com/channel/UCSNS5Jra2IAEhlniI4uIZPg)
