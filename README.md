@@ -41,11 +41,11 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [How To Upload Website On Github Pages 2021 2022 Full Video Hd](https://www.youtube.com/watch?v=GICnDhCfB8s)
 - [Daily UI | UI/UX 2021 | Part 1](https://www.youtube.com/watch?v=ZNXHAxAS9NI)
 - [Adobe XD Wireframe Kit Free Download](https://www.youtube.com/watch?v=ieA37Ute2Pg)
 - [Social Media Distraction - Project](https://www.youtube.com/watch?v=ZkCyj1Row9w)
 - [BGMI Map Fix](https://www.youtube.com/watch?v=T68Cd6UZSZs)
-- [Parse JSON 2021](https://www.youtube.com/watch?v=ME4DBgRWTZo)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://www.youtube.com/channel/UCSNS5Jra2IAEhlniI4uIZPg)
