@@ -75,7 +75,7 @@
 
 
 
-[twitter]: https://twitter.com/NewGenDeveloper
+[twitter]: https://twitter.com/amritanshu_nft
 [youtube]: https://www.youtube.com/channel/UCSNS5Jra2IAEhlniI4uIZPg
 [linkedin]: https://www.linkedin.com/in/amritanshu-rawat-3010a819b/
 [hashnode]: https://newgendeveloper.hashnode.dev/
