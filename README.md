@@ -39,11 +39,11 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [AR Design - Figma, Unity and Vuforia](https://www.youtube.com/watch?v=yXA3MnMq2DU)
 - [Figma Motion Home Page](https://www.youtube.com/watch?v=pb2_V9TPVMs)
 - [UX Project - KODE](https://www.youtube.com/watch?v=e76tGc17Mac)
 - [How To Upload Website On Github Pages 2021 2022 Full Video Hd](https://www.youtube.com/watch?v=GICnDhCfB8s)
 - [Daily UI | UI/UX 2021 | Part 1](https://www.youtube.com/watch?v=ZNXHAxAS9NI)
-- [Adobe XD Wireframe Kit Free Download](https://www.youtube.com/watch?v=ieA37Ute2Pg)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://www.youtube.com/channel/UCSNS5Jra2IAEhlniI4uIZPg)
