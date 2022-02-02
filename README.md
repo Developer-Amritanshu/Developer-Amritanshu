@@ -39,11 +39,11 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Atomic Design System | Atoms | Colors | Shades](https://www.youtube.com/watch?v=527IG-djcNA)
 - [Atomic Design System | Atoms | Colors | Dark Mode](https://www.youtube.com/watch?v=vCz_JvttRu8)
 - [Atomic Design System | Atoms | Colors | Neutral](https://www.youtube.com/watch?v=Md7b4FPzuEg)
 - [English BGMI : 👍 Good stream | Playing Solo | Streaming with Turnip](https://www.youtube.com/watch?v=-xm0TwifQDg)
 - [English BGMI : 😍 Excited stream | Playing Solo | Streaming with Turnip](https://www.youtube.com/watch?v=_NtVDEaL9Uo)
-- [AR Design - Figma, Unity and Vuforia](https://www.youtube.com/watch?v=yXA3MnMq2DU)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://www.youtube.com/channel/UCSNS5Jra2IAEhlniI4uIZPg)
