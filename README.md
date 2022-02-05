@@ -39,11 +39,11 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Atomic Design System | Atoms | Icons](https://www.youtube.com/watch?v=yXkSBlbezNM)
 - [Atomic Design System | Atoms | Grids](https://www.youtube.com/watch?v=sFoyG8ojJHc)
 - [Atomic Design System | Atoms | Typography](https://www.youtube.com/watch?v=fp-AUPweEiY)
 - [Atomic Design System | Atoms | Colors | Primary Color](https://www.youtube.com/watch?v=0jkZ_eXfDtk)
 - [Atomic Design System | Atoms | Colors | Shades](https://www.youtube.com/watch?v=527IG-djcNA)
-- [Atomic Design System | Atoms | Colors | Dark Mode](https://www.youtube.com/watch?v=vCz_JvttRu8)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://www.youtube.com/channel/UCSNS5Jra2IAEhlniI4uIZPg)
