@@ -57,7 +57,7 @@
 - [Deceptive Patterns](https://dev.to/amritanshu/deceptive-patterns-3l8l)
 - [Basic JavaScript - Comments, Data Types, Variables](https://dev.to/amritanshu/basic-javascript-comments-data-types-variables-2p41)
 - [Top courses to learn NODE](https://dev.to/amritanshu/top-courses-to-learn-node-d0i)
-- [6 figure job in 6 months](https://dev.to/amritanshu/6-figure-job-in-6-months-2g2b)
+- [Top Courses To Learn JAVASCRIPT](https://dev.to/amritanshu/top-courses-to-learn-javascript-43ah)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](https://dev.to/amritanshu)
